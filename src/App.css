@@ -8,7 +8,7 @@
 }
 
 .test{
-  color: 'red';
+  color: 'green';
 }
 
 @media (prefers-reduced-motion: no-preference) {
